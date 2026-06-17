@@ -109,3 +109,20 @@ Search → Booking → Driver Allocation → Trip Completion
 
 This dashboard demonstrates how operational analytics can support decision-making in mobility and ride-hailing businesses by improving conversion rates, reducing cancellations, and increasing service efficiency.
 
+## Generative AI Assisted Analytics
+
+Generative AI was used during dashboard development to accelerate:
+
+* KPI definition and validation
+* DAX measure development
+* Data cleaning recommendations
+* Funnel analysis design
+* Insight generation
+* Business recommendation generation
+* Dashboard storytelling
+
+All AI-generated outputs were manually reviewed and validated before implementation.
+
+This project demonstrates a Human-in-the-Loop analytics workflow where Generative AI acts as an analytics copilot while business decisions remain data-driven and analyst-validated.
+
+
